@@ -1,0 +1,4 @@
+[submodule "src/LocalPlanning_Learning"]
+	path = src/LocalPlanning_Learning
+	url = git@github.com:binxni/LocalPlanning_Learning.git
+	branch = main
